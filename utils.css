@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+}
+
+.text-center{
+    text-align: center;
+    margin-bottom: 6%;
+}
+.mx-auto{
+    margin: auto;
+}
+.bg-red{
+    background-color: red;
+}
+
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.button{
+
+}
+.items-center{
+    align-items: center;
+}
