@@ -18,8 +18,13 @@ html,body{
     cursor: pointer;
     background-color: antiquewhite;
     color: solid black;
-    border-radius: rgb(23, 22, 22)
+    border-radius: rgb(40, 39, 39)
     ;
+}
+button:hover{
+    border-radius: solid black;
+    color: rgb(83, 81, 81);
+    box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
 }
 .row{
     margin: 1vw 0; 
