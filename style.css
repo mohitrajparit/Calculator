@@ -5,26 +5,35 @@ html,body{
     width: 100%;
     font-family: 'Roboto';
     font-weight: lighter;
+    background-color: beige;
+    font-size: 100%;
 }
 .button{
-    font-size: large;
     width: 66px;
     padding: 24px;
+    font-size: large;
     /* margin-left: 1%; */
     border: 2px solid black;
     border-radius: 10%;
     cursor: pointer;
+    background-color: antiquewhite;
+    color: solid black;
+    border-radius: rgb(23, 22, 22)
+    ;
 }
 .row{
-    margin: 1vw 0;
-  
+    margin: 1vw 0; 
+}
+.input-row{
+    margin-bottom: 4%;
 }
 .row input{
-    font-size: 20px;
-
+    font-size: 21px;
+    /* font-weight: bold; */
     margin: 0;
     padding: 10px 0px;
     border: 2px solid black;
     border-radius: 5px;
-
+    width: 280px;
+    background-color: beige;
 }
