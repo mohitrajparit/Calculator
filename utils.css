@@ -14,18 +14,12 @@ body{
 .mx-auto{
     margin: auto;
 }
-.bg-red{
-    background-color: red;
-}
 
 .flex{
     display: flex;
 }
 .flex-col{
     flex-direction: column;
-}
-.button{
-
 }
 .items-center{
     align-items: center;
